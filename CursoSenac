@@ -1,4 +1,6 @@
-1. Utilize softwares originais
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("1. Utilize softwares originais
 Os softwares originais são importantes, porque garantem que o seu computador funcione de forma correta e segura. Além disso, eles são atualizados regularmente, para garantir que você esteja sempre usando a versão mais recente do aplicativo.
 Não compre softwares piratas, seja no comércio online ou de rua, esse tipo de produto pode carregar algum vírus e danificar o seu computador.
 2. Use um bom antivírus
@@ -34,3 +36,6 @@ Jamais publique informações pessoais como nome completo, data de nascimento, C
 9. Atenção ao fazer downloads
 Existem muitos sites mal-intencionados que oferecem downloads que podem conter vírus ou outros tipos de malware. Por isso, faça o download de arquivos somente em sites confiáveis.
 Antes de iniciar o download de qualquer arquivo, certifique-se de que você está usando um bom software antivírus e que ele está atualizado. Além disso, tenha também um firewall ativo, a fim de bloquear quaisquer tentativas de invasão.
+");
+    }
+}
